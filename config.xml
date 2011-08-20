@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.openkod.mycallsign"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>MYCallsign</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A mobile phone application which simplifies the task of looking up Malaysian Amateur Radio callsign while on the move.The user only need to key-in the ham callsign that he/she wished to enquire, and the application will automatically display relevant information related to the hamradio operator. 
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.openkod.com"
+		email="hasan@openkod.com">
+		Hasanuddin Abu Bakar
 	</author>
 
 	<gap:platforms>
